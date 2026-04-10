@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pranjali003
-- 👀 I’m interested in ...Development and Analysis
-- 🌱 I’m currently learning ...Data Analysis & Visualization
+- 👀 I’m interested in ...Data Engineering
+- 🌱 I’m currently learning ...Data Engineering & Visualization
 - 💞️ I’m looking to collaborate on ...projects related to data analysis and web development
 - 📫 How to reach me ...pranjali4312@gmail.com
 - 😄 Pronouns: ...She/Her
